@@ -1,0 +1,2 @@
+# AntiEshkere
+SA:MP AntiStealler
